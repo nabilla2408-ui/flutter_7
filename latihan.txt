@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Perubahan dari Master" 
+=======
+"Perubahan dari Branch A" 
+>>>>>>> branch-a
